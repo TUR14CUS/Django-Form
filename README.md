@@ -2,18 +2,31 @@
 
 This is a simple web application for a job application form built using Django and Bootstrap.
 
+## Table of Contents
+1. [Getting Started](#getting-started)
+2. [Project Structure](#project-structure)
+3. [Usage](#usage)
+4. [Dependencies](#dependencies)
+5. [License](#license)
+6. [Acknowledgments](#acknowledgments)
+
 ## Getting Started
 
+### Prerequisites
+- Python 3.x
+- Django (install using `pip install Django`)
+
+### Installation
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/TUR14CUS/Django-Form>
+   git clone https://github.com/TUR14CUS/Django-Form
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <Django-Form>
+   cd Django-Form
    ```
 
 3. Run the development server:
@@ -56,3 +69,6 @@ This project is licensed under the [MIT License](LICENSE).
 - This project is a simple demonstration of building a web application with Django and Bootstrap.
 
 Feel free to customize and expand upon this project for your specific needs.
+## Acknowledgments
+
+- This project is a simple demonstration of building a web application with Django and Bootstrap.
